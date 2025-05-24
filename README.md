@@ -1,4 +1,4 @@
-## Endeavor document processing Project
+## DocFlow: An automated document processing system for manufacturing trade operations.
 
 ### Demo video
 [https://drive.google.com/file/d/1XWPkX6FN6Vrhc4KCLNVEcIHkLcauoPO1/view?usp=sharing)
